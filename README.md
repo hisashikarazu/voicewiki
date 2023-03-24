@@ -1,5 +1,5 @@
 # voicewiki
-wikiから「今日の出来事」を取得し、voicevoxを用いてwavとcsvをする。
+wikiから「今日の出来事」を取得し、csvとスプレッドシートに書き込みとvoicevoxを用いてwavを作成する。
 
 必要なもの	
 ・voicevox_core-0.14.1+cpu-cp38-abi3-win_amd64.whl	
